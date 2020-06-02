@@ -1,7 +1,7 @@
 ## Introduction
 
 This project is a small budget app keeping track of income and expenses in a month.<br />
-It uses vanila Javascript, HTML5 and CSS3.<br />
+It uses vanilla Javascript, HTML5 and CSS3.<br />
 
 ## Key features:
 
